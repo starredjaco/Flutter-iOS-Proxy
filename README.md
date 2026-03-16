@@ -76,7 +76,7 @@ TLS handshake completes
 
 ## 🚀 Setup
 
-### 1. Install frida-server on iOS device
+### 1. Run frida-server on iOS device
 
 ```bash
 # On the iOS device via SSH
