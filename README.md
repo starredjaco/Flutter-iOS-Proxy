@@ -92,6 +92,7 @@ Proxy → Options → Edit Listener:
   ✅ Support invisible proxying: ENABLED
   ✅ Redirect to host: (LEAVE EMPTY)
 ```
+Install the Burp CA certificate as a trusted root on the device (Settings → General → About → Certificate Trust Settings).
 
 ### 3. Edit the script
 
